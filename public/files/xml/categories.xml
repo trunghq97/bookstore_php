@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book_store>
+    <category>
+        <id>6</id>
+        <name> Thường Thức - Gia Đình</name>
+        <picture>mWFcLSl4.jpg</picture>
+    </category>
+    <category>
+        <id>7</id>
+        <name>Y học</name>
+        <picture>mP2NJ8wO.jpg</picture>
+    </category>
+    <category>
+        <id>8</id>
+        <name>Truyện Tranh</name>
+        <picture>6kOhCQ0x.jpg</picture>
+    </category>
+    <category>
+        <id>9</id>
+        <name> Văn Hoá - Nghệ Thuật - Du Lịch</name>
+        <picture>PlQi8I2A.jpg</picture>
+    </category>
+    <category>
+        <id>28</id>
+        <name>Trinh Thám</name>
+        <picture>Sv6THy3F.jpg</picture>
+    </category>
+    <category>
+        <id>30</id>
+        <name>Bà mẹ - Em bé</name>
+        <picture>KvGsXwNt.jpg</picture>
+    </category>
+    <category>
+        <id>31</id>
+        <name>Công Nghệ Thông Tin</name>
+        <picture>iWLBySTm.jpg</picture>
+    </category>
+    <category>
+        <id>32</id>
+        <name>Kinh Tế</name>
+        <picture>WqF8daJo.png</picture>
+    </category>
+    <category>
+        <id>33</id>
+        <name>Ngoại Ngữ</name>
+        <picture>NOTq3GWL.jpg</picture>
+    </category>
+</book_store>
